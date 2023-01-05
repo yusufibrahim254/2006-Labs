@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings version="1.0">
+	<category name="arraystruct.c">
+		<category name="Breakpoints">
+			<category name="Breakpoint1">
+				<property name="Line" type="integer">158</property>
+				<property name="Enabled" type="integer">1</property>
+				<property name="HitCount" type="integer">0</property>
+				<property name="Expression" type="string"></property>
+			</category>
+		</category>
+	</category>
+</settings>

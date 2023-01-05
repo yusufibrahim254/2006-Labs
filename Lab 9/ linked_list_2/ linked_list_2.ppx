@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings version="1.0">
+	<category name="sl_list.c">
+		<category name="Window">
+			<property name="Left" type="integer">4294967283</property>
+			<property name="Top" type="integer">4294967238</property>
+			<property name="Right" type="integer">2591</property>
+			<property name="Bottom" type="integer">1264</property>
+			<property name="Maximized" type="integer">1</property>
+			<property name="Active" type="integer">1</property>
+		</category>
+	</category>
+	<category name="main.c">
+		<category name="Window">
+			<property name="Left" type="integer">196</property>
+			<property name="Top" type="integer">196</property>
+			<property name="Right" type="integer">2464</property>
+			<property name="Bottom" type="integer">1134</property>
+			<property name="Maximized" type="integer">0</property>
+			<property name="Active" type="integer">0</property>
+		</category>
+	</category>
+	<category name="sl_list.h">
+		<category name="Window">
+			<property name="Left" type="integer">245</property>
+			<property name="Top" type="integer">245</property>
+			<property name="Right" type="integer">2178</property>
+			<property name="Bottom" type="integer">1183</property>
+			<property name="Maximized" type="integer">0</property>
+			<property name="Active" type="integer">0</property>
+		</category>
+	</category>
+</settings>
